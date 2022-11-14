@@ -1,0 +1,43 @@
+header {
+    background-color: lightpink;
+    border-color: indigo;
+}
+
+footer {
+background-color: lightpink;
+border-color: indigo;
+}
+
+body {
+    background-color: khaki;
+}
+
+* {
+    font: helvetica;
+
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+h2 {
+    color: rgb(86, 145, 105);
+}
+
+h3 {
+    color: rgb(237, 173, 100);
+}
+
+h4 {
+    color: rgb(205, 165, 247);
+}
+
+a:hover {
+    color: rgb(231, 174, 216) ;
+    background-color: rgb(123, 30, 87) ;
+  }
+
+li {
+    list-style: none;
+}
